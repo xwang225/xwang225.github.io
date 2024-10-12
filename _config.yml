@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 心中恬园
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  I’m a student of social sciences, but this blog takes a step away from my academic world. Here, I dive into my personal interests—mythology, history, language learning, and various subcultures.
 
 
 ## => Language and Timezone
