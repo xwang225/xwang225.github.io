@@ -21,14 +21,14 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 心中恬园
-description: > # this means to ignore newlines until "Language & timezone"
-  I’m a student of social sciences, but this blog takes a step away from my academic world. Here, I dive into my personal interests—mythology, history, language learning, and various subcultures.
+description: I’m a student of social sciences, but this blog takes a step away from my academic world. It is a world of mythology, history, language learning, and various subcultures. > # this means to ignore newlines until "Language & timezone"
+  
 
 
 ## => Language and Timezone
 ##############################
 lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: America/New_York # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
